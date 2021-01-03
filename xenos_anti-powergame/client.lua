@@ -10,7 +10,7 @@
 --                                                                                                               \|__|  \|__|                                           
 
 local OnDebug = false
-local GripAmount = 5.8000001907349 -- Max amount = 9.8000001907349 | Default = 5.8000001907349 (Grip amount for any vehicle)
+local GripAmount = 5.8000001907349 -- Max amount = 9.8000001907349 | Default = 5.8000001907349 (Grip amount when on drift)
 
 
 Citizen.CreateThread(function()
